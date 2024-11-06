@@ -1,4 +1,3 @@
-import 'package:e_commrance_store/Screens/first_page.dart';
 import 'package:e_commrance_store/Widgets/navbar.dart';
 import 'package:flutter/material.dart';
 
